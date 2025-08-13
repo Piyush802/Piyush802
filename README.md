@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hello, I'm Piyush
 
-<!--
-**Piyush802/Piyush802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Python • SQL • Power BI • Excel | Always Learning
 
-Here are some ideas to get you started:
+### 🧑‍💻 About me
+- I enjoy data analysis, visualization, and learning new skills.
+- Experience with **SQL, Power BI, Tableau, Excel dashboarding, and Python (Pandas/Seaborn)**.
+- Self-taught transition into Data Analytics—curious and project-driven.
+- Connect with me on [LinkedIn]
+- Side note:_ I believe “Learning should never stop.” 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
+- **Analytics & BI:** Power BI, Tableau, Excel (Power Query, Pivot, DAX basics)  
+- **Other:** Git/GitHub, Jupyter, VS Code
