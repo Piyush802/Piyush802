@@ -7,7 +7,7 @@
 - Experience with **SQL, Power BI, Tableau, Excel dashboarding, and Python (Pandas/Seaborn)**.
 - Self-taught transition into Data Analytics—curious and project-driven.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/piyush-sharma-033029324/)
-- Side note:_ I believe “Learning should never stop.” 🚀
+- Side note: I believe “Learning should never stop.” 🚀
 
 ### 🛠️ Skills
 - **Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
