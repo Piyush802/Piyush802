@@ -15,6 +15,6 @@
 - **Other:** Git/GitHub, Jupyter
 
 ### Projects
-- Python - [Zomato Data Analysis]()
-- SQL - [Lok Sabha Election 2024 Analysis](), [Pizza Sales Analysis](), [Coffee sales analysis]()
-- Power BI - [Olympic Data Analysis](), [Supermarket Sales]()
+- Python - [Zomato Data Analysis](https://github.com/Piyush802/Zomato-Data-Analysis)
+- SQL - [Lok Sabha Election 2024 Analysis](https://github.com/Piyush802/Lok_Sabha_ELection_2024_Result_Analysis), [Pizza Sales Analysis](https://github.com/Piyush802/Pizza_sales_data_analysis), [Coffee sales analysis](https://github.com/Piyush802/Coffee_sales_data_analysis)
+- Power BI - [Olympic Data Analysis](https://github.com/Piyush802/Olympics_analysis_dashboard), [Supermarket Sales](https://github.com/Piyush802/Supermarket_Grocery_data_analysis)
